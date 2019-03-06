@@ -7,3 +7,12 @@ c:\users\kevin\documents\visual studio 2015\Projects\PassiFy\PassiFy\obj\Debug\P
 c:\users\kevin\documents\visual studio 2015\Projects\PassiFy\PassiFy\obj\Debug\PassiFy.csproj.GenerateResource.Cache
 c:\users\kevin\documents\visual studio 2015\Projects\PassiFy\PassiFy\obj\Debug\PassiFy.exe
 c:\users\kevin\documents\visual studio 2015\Projects\PassiFy\PassiFy\obj\Debug\PassiFy.pdb
+C:\bench\alex\Passify\PassiFy\bin\Debug\PassiFy.exe.config
+C:\bench\alex\Passify\PassiFy\obj\Debug\PassiFy.exe
+C:\bench\alex\Passify\PassiFy\obj\Debug\PassiFy.pdb
+C:\bench\alex\Passify\PassiFy\bin\Debug\PassiFy.exe
+C:\bench\alex\Passify\PassiFy\bin\Debug\PassiFy.pdb
+C:\bench\alex\Passify\PassiFy\obj\Debug\PassiFy.csprojResolveAssemblyReference.cache
+C:\bench\alex\Passify\PassiFy\obj\Debug\PassiFy.Properties.Resources.resources
+C:\bench\alex\Passify\PassiFy\obj\Debug\PassiFy.csproj.GenerateResource.Cache
+C:\bench\alex\Passify\PassiFy\obj\Debug\PassiFy.PasswordForm.resources
